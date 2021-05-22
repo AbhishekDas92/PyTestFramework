@@ -64,5 +64,6 @@ class TestOne(BaseClass):
 
         Sucess_Text = "Success! Thank you! Your order will be delivered in next few weeks :-)."
         log.info("Test received from Apllication is: "+Sucess_Text)
+        log.info("Succesfull Shopping -- Happy to Serve you")
         assert "Success! Thank you" in Sucess_Text
 
