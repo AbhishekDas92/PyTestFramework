@@ -1,0 +1,390 @@
+2021-05-18 19:52:51,203 : INFO : test_e2e :Information statement
+2021-05-18 19:52:51,203 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-18 19:52:51,203 : ERROR : test_e2e :Error has happened
+2021-05-18 19:52:51,203 : CRITICAL : test_e2e :Critical Issue
+2021-05-18 19:52:52,258 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-18 19:52:52,348 : INFO : test_e2e :iphone X
+2021-05-18 19:52:52,368 : INFO : test_e2e :Samsung Note 8
+2021-05-18 19:52:52,400 : INFO : test_e2e :Nokia Edge
+2021-05-18 19:52:52,422 : INFO : test_e2e :Blackberry
+2021-05-18 19:52:52,777 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-18 19:52:58,261 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-18 19:52:58,310 : INFO : pytest_pyfunc_call :Information statement
+2021-05-18 19:52:58,310 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-18 19:52:58,310 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-18 19:52:58,310 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-18 19:57:30,822 : INFO : test_formSubmisson :Information statement
+2021-05-18 19:57:30,822 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-18 19:57:30,822 : ERROR : test_formSubmisson :Error has happened
+2021-05-18 19:57:30,822 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-18 19:57:30,908 : INFO : test_formSubmisson :First Name is Abhishek
+2021-05-18 19:57:31,336 : INFO : test_formSubmisson :Information statement
+2021-05-18 19:57:31,336 : INFO : test_formSubmisson :Information statement
+2021-05-18 19:57:31,337 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-18 19:57:31,337 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-18 19:57:31,337 : ERROR : test_formSubmisson :Error has happened
+2021-05-18 19:57:31,337 : ERROR : test_formSubmisson :Error has happened
+2021-05-18 19:57:31,337 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-18 19:57:31,337 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-18 19:57:31,395 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-18 19:57:31,395 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-18 19:57:31,773 : INFO : pytest_pyfunc_call :Information statement
+2021-05-18 19:57:31,774 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-18 19:57:31,774 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-18 19:57:31,774 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-18 19:57:36,072 : INFO : test_e2e :Information statement
+2021-05-18 19:57:36,072 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-18 19:57:36,072 : ERROR : test_e2e :Error has happened
+2021-05-18 19:57:36,072 : CRITICAL : test_e2e :Critical Issue
+2021-05-18 19:57:36,938 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-18 19:57:36,982 : INFO : test_e2e :iphone X
+2021-05-18 19:57:36,996 : INFO : test_e2e :Samsung Note 8
+2021-05-18 19:57:37,007 : INFO : test_e2e :Nokia Edge
+2021-05-18 19:57:37,019 : INFO : test_e2e :Blackberry
+2021-05-18 19:57:37,179 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-18 19:57:42,526 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-18 19:57:42,537 : INFO : pytest_pyfunc_call :Information statement
+2021-05-18 19:57:42,537 : INFO : pytest_pyfunc_call :Information statement
+2021-05-18 19:57:42,537 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-18 19:57:42,537 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-18 19:57:42,538 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-18 19:57:42,538 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-18 19:57:42,538 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-18 19:57:42,538 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-18 20:15:49,645 : INFO : test_formSubmisson :Information statement
+2021-05-18 20:15:49,661 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-18 20:15:49,661 : ERROR : test_formSubmisson :Error has happened
+2021-05-18 20:15:49,661 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-18 20:15:49,751 : INFO : test_formSubmisson :First Name is Abhishek
+2021-05-18 20:15:50,259 : INFO : test_formSubmisson :Information statement
+2021-05-18 20:15:50,259 : INFO : test_formSubmisson :Information statement
+2021-05-18 20:15:50,259 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-18 20:15:50,259 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-18 20:15:50,259 : ERROR : test_formSubmisson :Error has happened
+2021-05-18 20:15:50,259 : ERROR : test_formSubmisson :Error has happened
+2021-05-18 20:15:50,259 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-18 20:15:50,259 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-18 20:15:50,317 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-18 20:15:50,317 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-18 20:15:50,714 : INFO : pytest_pyfunc_call :Information statement
+2021-05-18 20:15:50,714 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-18 20:15:50,714 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-18 20:15:50,714 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-18 20:15:55,133 : INFO : test_e2e :Information statement
+2021-05-18 20:15:55,134 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-18 20:15:55,134 : ERROR : test_e2e :Error has happened
+2021-05-18 20:15:55,134 : CRITICAL : test_e2e :Critical Issue
+2021-05-18 20:15:56,153 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-18 20:15:56,196 : INFO : test_e2e :iphone X
+2021-05-18 20:15:56,207 : INFO : test_e2e :Samsung Note 8
+2021-05-18 20:15:56,214 : INFO : test_e2e :Nokia Edge
+2021-05-18 20:15:56,230 : INFO : test_e2e :Blackberry
+2021-05-18 20:15:56,446 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-18 20:16:01,816 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-18 20:16:01,833 : INFO : pytest_pyfunc_call :Information statement
+2021-05-18 20:16:01,833 : INFO : pytest_pyfunc_call :Information statement
+2021-05-18 20:16:01,833 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-18 20:16:01,833 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-18 20:16:01,833 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-18 20:16:01,833 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-18 20:16:01,834 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-18 20:16:01,834 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-19 22:37:19,419 : INFO : test_formSubmisson :Information statement
+2021-05-19 22:37:19,466 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-19 22:37:19,466 : ERROR : test_formSubmisson :Error has happened
+2021-05-19 22:37:19,466 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-19 22:37:19,998 : INFO : test_formSubmisson :First Name is Abhishek
+2021-05-19 22:37:21,197 : INFO : test_formSubmisson :Information statement
+2021-05-19 22:37:21,197 : INFO : test_formSubmisson :Information statement
+2021-05-19 22:37:21,197 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-19 22:37:21,197 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-19 22:37:21,198 : ERROR : test_formSubmisson :Error has happened
+2021-05-19 22:37:21,198 : ERROR : test_formSubmisson :Error has happened
+2021-05-19 22:37:21,198 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-19 22:37:21,198 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-19 22:37:21,335 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-19 22:37:21,335 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-19 22:37:22,399 : INFO : pytest_pyfunc_call :Information statement
+2021-05-19 22:37:22,399 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-19 22:37:22,399 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-19 22:37:22,399 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-19 22:37:28,617 : INFO : test_e2e :Information statement
+2021-05-19 22:37:28,617 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-19 22:37:28,619 : ERROR : test_e2e :Error has happened
+2021-05-19 22:37:28,619 : CRITICAL : test_e2e :Critical Issue
+2021-05-19 22:37:30,410 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-19 22:37:30,499 : INFO : test_e2e :iphone X
+2021-05-19 22:37:30,520 : INFO : test_e2e :Samsung Note 8
+2021-05-19 22:37:30,540 : INFO : test_e2e :Nokia Edge
+2021-05-19 22:37:30,564 : INFO : test_e2e :Blackberry
+2021-05-19 22:37:30,888 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-19 22:37:36,432 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-19 22:37:36,454 : INFO : pytest_pyfunc_call :Information statement
+2021-05-19 22:37:36,454 : INFO : pytest_pyfunc_call :Information statement
+2021-05-19 22:37:36,454 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-19 22:37:36,454 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-19 22:37:36,454 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-19 22:37:36,454 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-19 22:37:36,459 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-19 22:37:36,459 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-19 22:53:39,548 : INFO : test_formSubmisson :Information statement
+2021-05-19 22:53:39,549 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-19 22:53:39,550 : ERROR : test_formSubmisson :Error has happened
+2021-05-19 22:53:39,550 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-19 22:53:40,145 : INFO : test_formSubmisson :First Name is Abhishek
+2021-05-19 22:53:41,856 : INFO : test_formSubmisson :Information statement
+2021-05-19 22:53:41,856 : INFO : test_formSubmisson :Information statement
+2021-05-19 22:53:41,856 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-19 22:53:41,856 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-19 22:53:41,856 : ERROR : test_formSubmisson :Error has happened
+2021-05-19 22:53:41,856 : ERROR : test_formSubmisson :Error has happened
+2021-05-19 22:53:41,856 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-19 22:53:41,856 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-19 22:53:41,985 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-19 22:53:41,985 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-19 22:53:42,863 : INFO : pytest_pyfunc_call :Information statement
+2021-05-19 22:53:42,863 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-19 22:53:42,868 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-19 22:53:42,868 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-19 22:53:50,093 : INFO : test_e2e :Information statement
+2021-05-19 22:53:50,093 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-19 22:53:50,093 : ERROR : test_e2e :Error has happened
+2021-05-19 22:53:50,093 : CRITICAL : test_e2e :Critical Issue
+2021-05-19 22:53:51,641 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-19 22:53:51,735 : INFO : test_e2e :iphone X
+2021-05-19 22:53:51,758 : INFO : test_e2e :Samsung Note 8
+2021-05-19 22:53:51,788 : INFO : test_e2e :Nokia Edge
+2021-05-19 22:53:51,809 : INFO : test_e2e :Blackberry
+2021-05-19 22:53:52,164 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-19 22:53:57,736 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-19 22:53:57,767 : INFO : pytest_pyfunc_call :Information statement
+2021-05-19 22:53:57,767 : INFO : pytest_pyfunc_call :Information statement
+2021-05-19 22:53:57,767 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-19 22:53:57,767 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-19 22:53:57,767 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-19 22:53:57,767 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-19 22:53:57,769 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-19 22:53:57,769 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-19 23:06:42,117 : INFO : test_formSubmisson :Information statement
+2021-05-19 23:06:42,117 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-19 23:06:42,117 : ERROR : test_formSubmisson :Error has happened
+2021-05-19 23:06:42,118 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-19 23:06:42,293 : INFO : test_formSubmisson :First Name is Abhishek
+2021-05-19 23:06:43,321 : INFO : test_formSubmisson :Information statement
+2021-05-19 23:06:43,321 : INFO : test_formSubmisson :Information statement
+2021-05-19 23:06:43,322 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-19 23:06:43,322 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-19 23:06:43,323 : ERROR : test_formSubmisson :Error has happened
+2021-05-19 23:06:43,323 : ERROR : test_formSubmisson :Error has happened
+2021-05-19 23:06:43,324 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-19 23:06:43,324 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-19 23:06:43,487 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-19 23:06:43,487 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-19 23:06:44,362 : INFO : pytest_pyfunc_call :Information statement
+2021-05-19 23:06:44,362 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-19 23:06:44,362 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-19 23:06:44,362 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-19 23:06:48,002 : INFO : test_e2e :Information statement
+2021-05-19 23:06:48,002 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-19 23:06:48,002 : ERROR : test_e2e :Error has happened
+2021-05-19 23:06:48,002 : CRITICAL : test_e2e :Critical Issue
+2021-05-19 23:06:49,657 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-19 23:06:49,750 : INFO : test_e2e :iphone X
+2021-05-19 23:06:49,775 : INFO : test_e2e :Samsung Note 8
+2021-05-19 23:06:49,799 : INFO : test_e2e :Nokia Edge
+2021-05-19 23:06:49,822 : INFO : test_e2e :Blackberry
+2021-05-19 23:06:50,164 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-19 23:06:55,687 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-19 23:06:55,719 : INFO : pytest_pyfunc_call :Information statement
+2021-05-19 23:06:55,719 : INFO : pytest_pyfunc_call :Information statement
+2021-05-19 23:06:55,719 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-19 23:06:55,719 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-19 23:06:55,720 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-19 23:06:55,720 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-19 23:06:55,720 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-19 23:06:55,720 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-20 23:29:11,811 : INFO : test_formSubmisson :Information statement
+2021-05-20 23:29:11,842 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-20 23:29:11,842 : ERROR : test_formSubmisson :Error has happened
+2021-05-20 23:29:11,842 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-20 23:29:12,070 : INFO : test_formSubmisson :First Name is Abhishek
+2021-05-20 23:29:12,507 : INFO : test_formSubmisson :Information statement
+2021-05-20 23:29:12,507 : INFO : test_formSubmisson :Information statement
+2021-05-20 23:29:12,507 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-20 23:29:12,507 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-20 23:29:12,507 : ERROR : test_formSubmisson :Error has happened
+2021-05-20 23:29:12,507 : ERROR : test_formSubmisson :Error has happened
+2021-05-20 23:29:12,507 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-20 23:29:12,507 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-20 23:29:12,563 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-20 23:29:12,563 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-20 23:29:12,987 : INFO : pytest_pyfunc_call :Information statement
+2021-05-20 23:29:12,987 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-20 23:29:12,995 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-20 23:29:12,995 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-20 23:29:16,853 : INFO : test_e2e :Information statement
+2021-05-20 23:29:16,853 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-20 23:29:16,853 : ERROR : test_e2e :Error has happened
+2021-05-20 23:29:16,853 : CRITICAL : test_e2e :Critical Issue
+2021-05-20 23:29:17,765 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-20 23:29:17,812 : INFO : test_e2e :iphone X
+2021-05-20 23:29:17,820 : INFO : test_e2e :Samsung Note 8
+2021-05-20 23:29:17,827 : INFO : test_e2e :Nokia Edge
+2021-05-20 23:29:17,843 : INFO : test_e2e :Blackberry
+2021-05-20 23:29:18,051 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-20 23:29:23,310 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-20 23:29:23,329 : INFO : pytest_pyfunc_call :Information statement
+2021-05-20 23:29:23,329 : INFO : pytest_pyfunc_call :Information statement
+2021-05-20 23:29:23,329 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-20 23:29:23,329 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-20 23:29:23,329 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-20 23:29:23,329 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-20 23:29:23,329 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-20 23:29:23,329 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-21 23:12:33,989 : INFO : test_e2e :Information statement
+2021-05-21 23:12:33,997 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-21 23:12:33,997 : ERROR : test_e2e :Error has happened
+2021-05-21 23:12:33,997 : CRITICAL : test_e2e :Critical Issue
+2021-05-21 23:12:35,083 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-21 23:12:35,164 : INFO : test_e2e :iphone X
+2021-05-21 23:12:35,179 : INFO : test_e2e :Samsung Note 8
+2021-05-21 23:12:35,195 : INFO : test_e2e :Nokia Edge
+2021-05-21 23:12:35,210 : INFO : test_e2e :Blackberry
+2021-05-21 23:12:35,501 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-21 23:12:40,812 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 23:12:40,822 : INFO : pytest_pyfunc_call :Information statement
+2021-05-21 23:12:40,822 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-21 23:12:40,822 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-21 23:12:40,822 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-21 23:14:23,032 : INFO : test_e2e :Information statement
+2021-05-21 23:14:23,032 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-21 23:14:23,032 : ERROR : test_e2e :Error has happened
+2021-05-21 23:14:23,032 : CRITICAL : test_e2e :Critical Issue
+2021-05-21 23:14:24,287 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-21 23:14:24,376 : INFO : test_e2e :iphone X
+2021-05-21 23:14:24,392 : INFO : test_e2e :Samsung Note 8
+2021-05-21 23:14:24,424 : INFO : test_e2e :Nokia Edge
+2021-05-21 23:14:24,448 : INFO : test_e2e :Blackberry
+2021-05-21 23:14:24,784 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-21 23:14:30,209 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 23:14:30,233 : INFO : pytest_pyfunc_call :Information statement
+2021-05-21 23:14:30,233 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-21 23:14:30,233 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-21 23:14:30,233 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-21 23:15:05,365 : INFO : test_e2e :Information statement
+2021-05-21 23:15:05,365 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-21 23:15:05,365 : ERROR : test_e2e :Error has happened
+2021-05-21 23:15:05,365 : CRITICAL : test_e2e :Critical Issue
+2021-05-21 23:15:06,737 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-21 23:15:06,811 : INFO : test_e2e :iphone X
+2021-05-21 23:15:06,835 : INFO : test_e2e :Samsung Note 8
+2021-05-21 23:15:06,851 : INFO : test_e2e :Nokia Edge
+2021-05-21 23:15:06,867 : INFO : test_e2e :Blackberry
+2021-05-21 23:15:07,146 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-21 23:15:12,666 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 23:15:12,695 : INFO : pytest_pyfunc_call :Information statement
+2021-05-21 23:15:12,695 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-21 23:15:12,695 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-21 23:15:12,695 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-21 23:16:42,532 : INFO : test_e2e :Information statement
+2021-05-21 23:16:42,540 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-21 23:16:42,540 : ERROR : test_e2e :Error has happened
+2021-05-21 23:16:42,540 : CRITICAL : test_e2e :Critical Issue
+2021-05-21 23:16:43,707 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-21 23:16:43,782 : INFO : test_e2e :iphone X
+2021-05-21 23:16:43,798 : INFO : test_e2e :Samsung Note 8
+2021-05-21 23:16:43,829 : INFO : test_e2e :Nokia Edge
+2021-05-21 23:16:43,845 : INFO : test_e2e :Blackberry
+2021-05-21 23:16:44,147 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-21 23:16:49,661 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 23:16:49,678 : INFO : pytest_pyfunc_call :Information statement
+2021-05-21 23:16:49,678 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-21 23:16:49,678 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-21 23:16:49,678 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-21 23:18:47,503 : INFO : test_e2e :Information statement
+2021-05-21 23:18:47,503 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-21 23:18:47,503 : ERROR : test_e2e :Error has happened
+2021-05-21 23:18:47,503 : CRITICAL : test_e2e :Critical Issue
+2021-05-21 23:18:48,616 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-21 23:18:48,696 : INFO : test_e2e :iphone X
+2021-05-21 23:18:48,720 : INFO : test_e2e :Samsung Note 8
+2021-05-21 23:18:48,744 : INFO : test_e2e :Nokia Edge
+2021-05-21 23:18:48,768 : INFO : test_e2e :Blackberry
+2021-05-21 23:18:49,101 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-21 23:18:54,579 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 23:18:54,611 : INFO : pytest_pyfunc_call :Information statement
+2021-05-21 23:18:54,619 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-21 23:18:54,619 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-21 23:18:54,619 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-21 23:19:44,226 : INFO : test_e2e :Information statement
+2021-05-21 23:19:44,226 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-21 23:19:44,226 : ERROR : test_e2e :Error has happened
+2021-05-21 23:19:44,226 : CRITICAL : test_e2e :Critical Issue
+2021-05-21 23:19:45,242 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-21 23:19:45,325 : INFO : test_e2e :iphone X
+2021-05-21 23:19:45,349 : INFO : test_e2e :Samsung Note 8
+2021-05-21 23:19:45,365 : INFO : test_e2e :Nokia Edge
+2021-05-21 23:19:45,380 : INFO : test_e2e :Blackberry
+2021-05-21 23:19:45,663 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-21 23:19:51,158 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 23:19:51,198 : INFO : pytest_pyfunc_call :Information statement
+2021-05-21 23:19:51,198 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-21 23:19:51,198 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-21 23:19:51,198 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-21 23:20:42,927 : INFO : test_e2e :Information statement
+2021-05-21 23:20:42,927 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-21 23:20:42,927 : ERROR : test_e2e :Error has happened
+2021-05-21 23:20:42,927 : CRITICAL : test_e2e :Critical Issue
+2021-05-21 23:20:43,911 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-21 23:20:43,999 : INFO : test_e2e :iphone X
+2021-05-21 23:20:44,023 : INFO : test_e2e :Samsung Note 8
+2021-05-21 23:20:44,047 : INFO : test_e2e :Nokia Edge
+2021-05-21 23:20:44,071 : INFO : test_e2e :Blackberry
+2021-05-21 23:20:44,456 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-21 23:20:49,948 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 23:20:49,975 : INFO : pytest_pyfunc_call :Information statement
+2021-05-21 23:20:49,975 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-21 23:20:49,975 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-21 23:20:49,975 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-21 23:23:24,020 : INFO : test_formSubmisson :Information statement
+2021-05-21 23:23:24,020 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-21 23:23:24,020 : ERROR : test_formSubmisson :Error has happened
+2021-05-21 23:23:24,020 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-21 23:23:24,160 : INFO : test_formSubmisson :First Name is Jhilik
+2021-05-21 23:23:24,901 : INFO : pytest_pyfunc_call :Information statement
+2021-05-21 23:23:24,901 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-21 23:23:24,901 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-21 23:23:24,901 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-21 23:23:56,660 : INFO : test_formSubmisson :Information statement
+2021-05-21 23:23:56,660 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-21 23:23:56,660 : ERROR : test_formSubmisson :Error has happened
+2021-05-21 23:23:56,660 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-21 23:23:56,804 : INFO : test_formSubmisson :First Name is Abhishek
+2021-05-21 23:23:57,500 : INFO : pytest_pyfunc_call :Information statement
+2021-05-21 23:23:57,500 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-21 23:23:57,500 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-21 23:23:57,500 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-21 23:24:38,445 : INFO : test_formSubmisson :Information statement
+2021-05-21 23:24:38,445 : WARNING : test_formSubmisson :Alert - Pass a warning message
+2021-05-21 23:24:38,445 : ERROR : test_formSubmisson :Error has happened
+2021-05-21 23:24:38,445 : CRITICAL : test_formSubmisson :Critical Issue
+2021-05-21 23:24:38,589 : INFO : test_formSubmisson :First Name is Abhishek
+2021-05-21 23:24:39,274 : INFO : pytest_pyfunc_call :Information statement
+2021-05-21 23:24:39,274 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-21 23:24:39,274 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-21 23:24:39,274 : CRITICAL : pytest_pyfunc_call :Critical Issue
+2021-05-21 23:27:12,555 : INFO : test_e2e :Information statement
+2021-05-21 23:27:12,555 : WARNING : test_e2e :Alert - Pass a warning message
+2021-05-21 23:27:12,555 : ERROR : test_e2e :Error has happened
+2021-05-21 23:27:12,555 : CRITICAL : test_e2e :Critical Issue
+2021-05-21 23:27:13,790 : INFO : test_e2e :Getting all the Cart Titles
+2021-05-21 23:27:13,890 : INFO : test_e2e :iphone X
+2021-05-21 23:27:13,914 : INFO : test_e2e :Samsung Note 8
+2021-05-21 23:27:13,942 : INFO : test_e2e :Nokia Edge
+2021-05-21 23:27:13,982 : INFO : test_e2e :Blackberry
+2021-05-21 23:27:14,273 : INFO : test_e2e :Entering Country Name as Ind
+2021-05-21 23:27:19,736 : INFO : test_e2e :Test received from Apllication is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-05-21 23:27:19,744 : INFO : pytest_pyfunc_call :Information statement
+2021-05-21 23:27:19,744 : WARNING : pytest_pyfunc_call :Alert - Pass a warning message
+2021-05-21 23:27:19,744 : ERROR : pytest_pyfunc_call :Error has happened
+2021-05-21 23:27:19,744 : CRITICAL : pytest_pyfunc_call :Critical Issue
